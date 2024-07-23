@@ -30,7 +30,7 @@ function App() {
                   <Link className="nav-link text-ligth" to="/post3">Algorithms</Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link text-ligth" to="/post4">Computer Network</Link>
+                  <Link className="nav-link text-ligth" to="/post4">Computer Networks</Link>
                 </li>
               </ul>
               <form className="d-flex" role="search">
