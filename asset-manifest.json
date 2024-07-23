@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/BlogPlatform/static/css/main.0ec68132.css",
+    "main.js": "/BlogPlatform/static/js/main.3a0e6acf.js",
+    "static/js/453.7bac5da6.chunk.js": "/BlogPlatform/static/js/453.7bac5da6.chunk.js",
+    "static/media/JavaScript.png": "/BlogPlatform/static/media/JavaScript.53599a837a711e5d9826.png",
+    "static/media/Data Structures.png": "/BlogPlatform/static/media/Data Structures.741d31925e95abf1f0d9.png",
+    "static/media/Computer Network.jpg": "/BlogPlatform/static/media/Computer Network.06ac6275dacd67dd77fd.jpg",
+    "index.html": "/BlogPlatform/index.html",
+    "main.0ec68132.css.map": "/BlogPlatform/static/css/main.0ec68132.css.map",
+    "main.3a0e6acf.js.map": "/BlogPlatform/static/js/main.3a0e6acf.js.map",
+    "453.7bac5da6.chunk.js.map": "/BlogPlatform/static/js/453.7bac5da6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ec68132.css",
+    "static/js/main.3a0e6acf.js"
+  ]
+}
