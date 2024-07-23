@@ -1,5 +1,3 @@
-// src/App.js
-
 import React from 'react';
 import './App.css';
 import BlogNav from './Components/BlogNav';
@@ -41,6 +39,7 @@ function App() {
           </div>
         </nav>
         <div className="container">
+          <Posts />
           <div className="content">
             <Routes>
               <Route path="/" element={<Posts />} />
